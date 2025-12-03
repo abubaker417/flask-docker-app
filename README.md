@@ -8,7 +8,6 @@ docker run -td -p 5000:5000 myapp
 curl localhost:5000
 # Or open browser: http://localhost:5000
 
-
 # Login to Docker Hub (create free account first at hub.docker.com)
 docker login
 
